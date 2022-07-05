@@ -19,7 +19,7 @@ ___
 
 - 👋 Hi, I’m Lopezs
 - 👀 I’m interested in back-end ...
-- learning js and nodejs . 
+- 📚 learning js and nodejs . 
 <!---
 shoya2K/shoya2K is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
